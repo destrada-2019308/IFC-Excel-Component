@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\Excel-componentManifest.xml
+C:\Users\soporte\Documents\Borrar\Excel-component\Excel-component\bin\Debug\Excel-component.debugapp

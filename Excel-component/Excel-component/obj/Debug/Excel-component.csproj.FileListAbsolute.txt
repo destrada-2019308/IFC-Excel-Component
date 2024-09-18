@@ -1,0 +1,2 @@
+C:\Users\soporte\Documents\Borrar\Excel-component\Excel-component\obj\Debug\Excel-component.csproj.AssemblyReference.cache
+C:\Users\soporte\Documents\Borrar\Excel-component\Excel-component\obj\Debug\Excel-component.csproj.CoreCompileInputs.cache
